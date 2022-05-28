@@ -4,7 +4,7 @@
 ## 3-rd Party library used : 
 >Ncurses
 
-##Tasks :
+## Tasks :
 - [x] Autocompletion using trie
 - [ ] To Create trees for storing files/folders
 - [ ] Stack for undo/redo
